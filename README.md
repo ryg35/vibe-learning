@@ -8,8 +8,8 @@ AIに「教えて」と聞くのではなく、**教材そのものをAIに作�
 
 実際に生成した教材:
 
-- [SPEC駆動開発を、2時間で「使える」ところまで](https://ryogohosoi.com/learn/spec-driven-development) ... 全8章120分
-- [UIコンポーネント見本帳](https://ryogohosoi.com/learn/uiux-component-catalog) ... 24パターンを動くサンプルで
+- [SPEC駆動開発を、2時間で「使える」ところまで](https://ryg35.com/learn/spec-driven-development) ... 全8章120分
+- [UIコンポーネント見本帳](https://ryg35.com/learn/uiux-component-catalog) ... 24パターンを動くサンプルで
 
 ## インストール
 
@@ -17,7 +17,7 @@ AIに「教えて」と聞くのではなく、**教材そのものをAIに作�
 git clone https://github.com/ryg35/vibe-learning.git ~/.claude/skills/vibe-learning
 ```
 
-zip で落としたい場合は [ryogohosoi.com/learn](https://ryogohosoi.com/learn) から。
+zip で落としたい場合は [ryg35.com/learn](https://ryg35.com/learn) から。
 
 ## 使い方
 

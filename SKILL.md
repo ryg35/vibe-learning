@@ -10,8 +10,8 @@ description: 新しいテーマを2時間で「使える」ところまで持っ
 
 参照実装（実際に生成して使った教材）:
 
-- `https://ryogohosoi.com/learn/spec-driven-development` … SPEC駆動開発。全8章120分、タイマー・演習・クイズ・成果物ダウンロードつき
-- `https://ryogohosoi.com/learn/uiux-component-catalog` … UIコンポーネント見本帳。24パターンを動くサンプルで
+- `https://ryg35.com/learn/spec-driven-development` … SPEC駆動開発。全8章120分、タイマー・演習・クイズ・成果物ダウンロードつき
+- `https://ryg35.com/learn/uiux-component-catalog` … UIコンポーネント見本帳。24パターンを動くサンプルで
 
 デザインを再現するときは `references/material-design.md` を読む。教材HTMLを書く前に**必ず**通す。
 
