@@ -1,7 +1,7 @@
 # 教材HTMLのデザイン規範
 
 Notion の Design System を下敷きにした、2時間集中学習用の教材UI。
-原本は `https://ryogohosoi.com/learn/spec-driven-development`。ブラウザで開いて、
+原本は `https://ryg35.com/learn/spec-driven-development`。ブラウザで開いて、
 ソースを読める（1ファイル完結なので、ページのソースがそのまま実装の全部）。
 
 **迷ったら原本を開いて該当箇所を読む。** ここに書いてあるのは骨格であって、全部ではない。
